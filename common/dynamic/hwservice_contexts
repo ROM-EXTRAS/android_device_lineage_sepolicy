@@ -19,4 +19,4 @@ vendor.lineage.touch::IKeySwapper                                       u:object
 vendor.lineage.touch::IStylusMode                                       u:object_r:hal_lineage_touch_hwservice:s0
 vendor.lineage.touch::ITouchscreenGesture                               u:object_r:hal_lineage_touch_hwservice:s0
 vendor.lineage.trust::IUsbRestrict                                      u:object_r:hal_lineage_trust_hwservice:s0
-vendor.kscope.chgctrl::IChargeControl                                   u:object_r:hal_chargecontrol_hwservice:s0
+vendor.lineage.chgctrl::IChargeControl                                   u:object_r:hal_chargecontrol_hwservice:s0
